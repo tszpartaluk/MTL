@@ -1,3 +1,18 @@
+#include "MTL/list.hpp"
 
 
-#include "MTL/list.h"
+
+#include <iostream>
+
+
+
+void main() {
+
+	MTL::List<int> a;
+
+	
+
+	std::cout << "Helo oworld";
+
+	return;
+}
